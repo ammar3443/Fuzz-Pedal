@@ -1,12 +1,15 @@
 # Fuzz-Pedal
+What is a fuzz pedal? What is a guitar pedal?
 
-The fuzz guitar pedal produces a distorted sound, hence the name fuzz pedal. To achieve this effect, two common emitter transistors are connected in cascade. Both transistors have their emitter regions grounded. 
+A guitar pedal is a device that can alter the sound of electronic instruments, namely electric guitars. There are several types of gguitar pedals such as overdrive, distortion, fuzz, delay, phaser, buffer, the list goes on. If you play games, think of it like a mod for your game that can enahnce or alter your gameplay experience, in the same way guitar pedals can bring unique sounds to the musician.
 
-In this project I am using PNP transistors, but NPN transistors can be substituted with modifications to the circuit of course.
+The fuzz guitar pedal produces a sound akin to a faulty amplifier (I believe faulty components also led to this pedal being "discovered"). Have you ever heard someone talk into a mic and someone tells them their mic is clipping? Well with a fuzz pedal, that is what we are trying to achieve to a certain extent. 
+
+
 ![image](https://github.com/ammar3443/Fuzz-Pedal/assets/124750847/7b19b68a-85c5-4b4b-997f-30a442044553)
 
 The image above is the circuit we will implement. The input audio jack is connected to the 2.2uF capacitor. The output jack is connected to potentiometer X2.
-
+In this project I am using PNP transistors, but NPN transistors can be substituted with modifications to the circuit of course.
 Component list:
 
 1       0.01 uF,
