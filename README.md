@@ -9,15 +9,15 @@ The image above is the circuit we will implement. The input audio jack is connec
 
 Component list:
 
-1       0.01 uF
-1       2.2uF
-1       20uF
-1       470Ω
-1       8.8KΩ
-1       33KΩ
-1       100KΩ
-1       1KΩ (Linear pot)
-1       500KΩ (Audio taper pot)
-2       2N3906 transistors
+1       0.01 uF,
+1       2.2uF,
+1       20uF,
+1       470Ω,
+1       8.8KΩ,
+1       33KΩ,
+1       100KΩ,
+1       1KΩ (Linear pot),
+1       500KΩ (Audio taper pot),
+2       2N3906 transistors,
 
 Jack in, Jack out, battery clip, battery, & DPDT foot-switch
