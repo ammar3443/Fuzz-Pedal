@@ -1,7 +1,7 @@
 # Fuzz-Pedal
 What is a fuzz pedal? What is a guitar pedal?
 
-A guitar pedal is a device that can alter the sound of electronic instruments, namely electric guitars. There are several types of gguitar pedals such as overdrive, distortion, fuzz, delay, phaser, buffer, the list goes on. If you play games, think of it like a mod for your game that can enahnce or alter your gameplay experience, in the same way guitar pedals can bring unique sounds to the musician.
+A guitar pedal is a device that can alter the sound of electronic instruments, namely electric guitars. There are several types of guitar pedals such as overdrive, distortion, fuzz, delay, phaser, buffer, the list goes on. If you play games, think of it like a mod for your game that can enahnce or alter your gameplay experience, in the same way guitar pedals can bring unique sounds to the musician.
 
 The fuzz guitar pedal produces a sound akin to a faulty amplifier (I believe faulty components also led to this pedal being "discovered"). Have you ever heard someone talk into a mic and someone tells them their mic is clipping? Well with a fuzz pedal, that is what we are trying to achieve to a certain extent. 
 
