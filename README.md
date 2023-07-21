@@ -25,7 +25,7 @@ Component list:
 
 Jack in, Jack out, battery clip, battery
 
-![image](https://github.com/ammar3443/Fuzz-Pedal/assets/124750847/3722ab0d-52dd-4f56-afb0-b30fe12aec96)
+![Untitled](https://github.com/ammar3443/Fuzz-Pedal/assets/124750847/c7b7be5f-79db-4a8f-9167-60030f82944a)
 
 Heres an image of the basic circuit minus the audio jack and potentiometer.
 
