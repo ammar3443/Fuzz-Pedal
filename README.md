@@ -23,4 +23,10 @@ Component list:
 1       500KΩ (Audio taper pot),
 2       2N3906 transistors,
 
-Jack in, Jack out, battery clip, battery, & DPDT foot-switch
+Jack in, Jack out, battery clip, battery
+
+![image](https://github.com/ammar3443/Fuzz-Pedal/assets/124750847/3722ab0d-52dd-4f56-afb0-b30fe12aec96)
+
+Heres an image of the basic circuit minus the audio jack and potentiometer.
+
+Currently working on a PCB design for this circuit.
